@@ -78,10 +78,9 @@ This project is proprietary software. Unauthorized copying, distribution, or mod
 
 ## 🆘 Support
 
-- **Documentation**: [Wiki](https://github.com/yourusername/docxreplace-streamlit/wiki)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/docxreplace-streamlit/issues)
-- **Contact**: hrishik@example.com
-
+- **Documentation**: [Document Tools Suite](https://github.com/athrishik/docxsuite/readme.md)
+- **Contact**: hrishik.kunduru@gmail.com
+  
 ## 🔗 Related Projects
 
 - [DocXScan v3.0](https://github.com/athrishik/docxscan-web) - Professional document scanner - web version
